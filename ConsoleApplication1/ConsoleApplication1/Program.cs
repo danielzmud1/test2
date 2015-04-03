@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("zmiana");
-            Console.WriteLine("kolejna konfliktowa linia");
+            Console.WriteLine("kolejna kolejna konfliktowa linia");
             Console.ReadKey();
         }
     }
